@@ -70,14 +70,14 @@ atau
 
 ### Ini link gwehj
 
-[Github](https://github.com/logasans/)
-[Instagram](https://instagram.com/realdonaldtrump)
-[Email](narutoshippuden@naruto.com)
+[Github](https://github.com/logasans/)<br>
+[Instagram](https://instagram.com/realdonaldtrump)<br>
+[Email](narutoshippuden@naruto.com)<br>
 
-*Reference*
+***Reference***
 - [1]: https://www.markdownguide.org/basic-syntax/
 
 
-![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful](https://www.markdownguide.org/assets/images/generated/assets/images/san-juan-mountains-1080.webp "San Juan Mountains")
 
 
